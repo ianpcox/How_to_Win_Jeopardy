@@ -1,0 +1,2 @@
+# How_to_Win_Jeopardy
+The goal of this project was to use hypothesis testing to recommend how to best prepare for the popular trivia gameshow &lt;i>Jeopardy&lt;/i> with the expected outcome of earning the most money.  There were two primary areas of analysis: * How often a given answer can be used for a question, and * How often questions are repeated.  A chi-squared test is used to narrow down the questions into two categories: * Low Value, and * High Value.
